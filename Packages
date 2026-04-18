@@ -1,0 +1,9 @@
+Package: com.yourname.iapstorage
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm64
+Maintainer: YuShuo
+Filename: debs/com.yourname.iapstorage_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 6856
+MD5sum: f77f288cfb7bf21d294e93637b1cba5c
+Description: IAP Storage Project for CyberSecurity.
+Name: IAPStorage
